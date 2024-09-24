@@ -11,16 +11,16 @@ KbhbDeep: Prediction of lysine β-hydroxybutyrylation sites using bidirectional 
 ## 👀Guiding principles:
 * ⚡The data folder contains data from the Kbhb training set and independent test set<br>
 * 😉feature extraction:<br>
-**  AAindex.py is the implementation of AAindex.<br>
-**  DDE.py is the implementation of DDE.<br>
-**  EAAC.py is the implementation of EAAC.<br>
+   *    AAindex.py is the implementation of AAindex.<br>
+   *    DDE.py is the implementation of DDE.<br>
+   *    EAAC.py is the implementation of EAAC.<br>
 * 🌱classifier:<br>
-**  BiLSTM_kbhb_feature.ipynb is the implementation of different feature comparisons.<br>
-**  BiLSTM_Kbhb_warmup.ipynb is the implementation of KbhbDeep.<br>
-**  Kbhb_CNN.ipynb is the implementation of CNN.<br>
-**  Kbhb_GRU.ipynb is the implementation of GRU.<br>
-**  Kbhb_LSTM.ipynb is the implementation of LSTM.<br>
+   *   BiLSTM_kbhb_feature.ipynb is the implementation of different feature comparisons.<br>
+   *   BiLSTM_Kbhb_warmup.ipynb is the implementation of KbhbDeep.<br>
+   *   Kbhb_CNN.ipynb is the implementation of CNN.<br>
+   *   Kbhb_GRU.ipynb is the implementation of GRU.<br>
+   *   Kbhb_LSTM.ipynb is the implementation of LSTM.<br>
 * 💞️images:<br>
-**  Images in KbhbDeep.<br>
+   *    Images in KbhbDeep.<br>
 * 👋models:<br>
-** Model h5 files saved in KbhbDeep.<br>
+   *   Model h5 files saved in KbhbDeep.<br>
